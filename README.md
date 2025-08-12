@@ -140,10 +140,4 @@ python server.py --port 5051
 - Ensure `.env` file exists with valid credentials
 - Check Spotify Developer Dashboard for correct Client ID/Secret
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-**🎵 Happy Music Discovery with MCP Integration! 🎵**
