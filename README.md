@@ -1,8 +1,8 @@
-# 🎵 Spotify MCP Server
+# Spotify MCP Server
 
 A comprehensive Model Context Protocol (MCP) server that provides seamless integration with the Spotify Web API. This project includes a powerful MCP server with comprehensive music data access and a beautiful Streamlit web interface for music discovery and exploration.
 
-## 🌟 Features
+## Features
 
 ### Core MCP Server Capabilities
 - **🔍 Music Search**: Search for tracks, artists, albums, and playlists with detailed metadata
@@ -28,7 +28,7 @@ A comprehensive Model Context Protocol (MCP) server that provides seamless integ
 - **Multi-market Support**: Content discovery across different geographic regions
 - **Feature-rich Navigation**: Easy switching between different discovery modes
 
-## 🛠️ MCP Tools Available
+## MCP Tools Available
 
 The server provides **13 comprehensive tools** using client credentials authentication:
 
@@ -98,7 +98,7 @@ python server.py --port 5050
 curl http://localhost:5050/health
 ```
 
-## 🎯 Usage Examples
+## Usage Examples
 
 ### Option A: Run Demo Script
 ```bash
@@ -125,7 +125,7 @@ mcp_server_spotify/
 └── README.md                # This file
 ```
 
-## 🚨 Troubleshooting
+## Troubleshooting
 
 ### Server Won't Start
 ```bash
